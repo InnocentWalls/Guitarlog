@@ -19,7 +19,7 @@
 
 | # | 楽曲名 | アーティスト | チューニング | 特徴・難易度メモ | ステータス |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| 1 | (I Can't Get No) Satisfaction | The Rolling Stones | Standard E | 歴史的で非常にシンプルな3音リフ。初心者の登竜門。 | 未着手 |
+| 1 | (I Can't Get No) Satisfaction | The Rolling Stones | Standard E | 歴史的で非常にシンプルな3音リフ。初心者の登竜門。 | 練習中 |
 | 2 | 1000のバイオリン | The Blue Hearts | Standard E | シンプルなパンクビートのコードストローク。 | 未着手 |
 | 3 | Hello There | Cheap Trick | Standard E | パワーコード中心のストレートな曲。短くて練習しやすい。 | 未着手 |
 | 4 | American Idiot | Green Day | Standard E | 4つのパワーコードでほぼ全編弾ける王道パンク。 | 未着手 |
