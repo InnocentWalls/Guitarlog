@@ -8,13 +8,13 @@
 
 | 難易度 | 曲数 | 特徴・アドバイス | おすすめの進め方 |
 | :--- | :---: | :--- | :--- |
-| **🔰 初級 (★☆☆)** | 17曲 | 基本的なパワーコードやシンプルなストロークで弾ける曲。 | ギターの構え方やピッキングの基礎を固めるのに最適。 |
-| **🚀 中級 (★★☆)** | 26曲 | テンポが速い曲、オクターブ奏法、基本的なソロがある曲。 | 表現力やリズムのキープ力、右手のスタミナを鍛えます。 |
+| **🔰 初級 (★☆☆)** | 15曲 | 基本的なパワーコードやシンプルなストロークで弾ける曲。 | ギターの構え方やピッキングの基礎を固めるのに最適。 |
+| **🚀 中級 (★★☆)** | 23曲 | テンポが速い曲、オクターブ奏法、基本的なソロがある曲。 | 表現力やリズムのキープ力、右手のスタミナを鍛えます。 |
 | **🏆 上級 (★★★)** | 4曲 | 高速メタルリフ、テクニカルなソロ、複雑なタッピング等を含む曲。 | 本リポジトリの最終目標（Ave Mujica、A7X等）。 |
 
 ---
 
-## 🔰 1. 初級 (★☆☆) [17曲]
+## 🔰 1. 初級 (★☆☆) [15曲]
 基本的なコードチェンジや、シンプルなリフで構成されている楽曲です。ギターに慣れるための最初のステップにおすすめです。
 
 | # | 楽曲名 | アーティスト | チューニング | 特徴・難易度メモ | ステータス |
@@ -32,44 +32,39 @@
 | 11 | Doom and Gloom | The Rolling Stones | Standard E | オーソドックスなローリングストーンズ風ロック。 | 未着手 |
 | 12 | A Hard Day's Night | The Beatles | Standard E | オープニングコードの響きと、定番のバッキングパターン。 | 未着手 |
 | 13 | Feuer Frei | Rammstein | Drop D | リフ自体は非常にシンプル。重低音とシンクする練習に。 | 未着手 |
-| 14 | In Cold Blood | alt-J | Standard E | パターン化されたクランチリフ。焦らず弾けば易しい。 | 未着手 |
-| 15 | You And Me | Attack! Attack! | Standard E | カポ2推奨。爽快なポップパンクの王道進行。 | 未着手 |
-| 16 | 環七フィーバー | Guitar Wolf | Standard E | 初期パンク/ガレージの勢い重視のバッキング。 | 未着手 |
-| 17 | ROCK OVER JAPAN | TRIPLE H | Standard E | 力強いシンプルなストロークとパンクリフ。 | 未着手 |
+| 14 | You And Me | Attack! Attack! | Standard E | カポ2推奨。爽快なポップパンクの王道進行。 | 未着手 |
+| 15 | 環七フィーバー | Guitar Wolf | Standard E | 初期パンク/ガレージの勢い重視のバッキング。 | 未着手 |
 
 ---
 
-## 🚀 2. 中級 (★★☆) [26曲]
+## 🚀 2. 中級 (★★☆) [23曲]
 テンポが速くなったり、ソロフレーズやオクターブ奏法などのテクニックが必要になる楽曲です。
 
 | # | 楽曲名 | アーティスト | チューニング | 特徴・難易度メモ | ステータス |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| 18 | Monkey Wrench | Foo Fighters | Drop D | ドロップD定番の高速リフとオクターブ奏法。右手のスタミナが必要。 | 未着手 |
-| 19 | The Pretender | Foo Fighters | Standard E | アルペジオから激しいサビへのダイナミクス変化。 | 未着手 |
-| 20 | Welcome To Paradise | Green Day | 半音下げ | 間奏のベースソロ裏など、パンクらしいノリと勢いが必要。 | 未着手 |
-| 21 | All I Want | The Offspring | Standard E | 爆速パンクリフ。高速ダウンピッキングの持久力テスト。 | 未着手 |
-| 22 | Knights of Cydonia | Muse | Standard E | トレモロピッキング（高速連打）とシンセ風エフェクト。 | 未着手 |
-| 23 | できっこないをやらなくちゃ | サンボマスター | Standard E | かなり速いテンポでのコードストロークが続く体力曲。 | 未着手 |
-| 24 | Horizon Dreamer | 三浦大知 | Standard E | ファンキーなカッティングと、キレの良いリズム感が必要。 | 未着手 |
-| 25 | Bright Burning Shout | 西川貴教 | Drop D | ドライブ感のあるアニソンメタル。キレのあるリフ。 | 未着手 |
-| 26 | Paradise City | Guns N' Roses | 半音下げ | クリーンアルペジオからハードロックソロまで総合力が求められる。 | 未着手 |
-| 27 | Don't Stop Me Now | Queen | Standard E | ピアノの裏でのオブリガードや、歌うようなギターソロ。 | 未着手 |
-| 28 | I Was Born To Love You | Queen | Standard E | ハーモナイズドリードや正確なチョーキングが必要なソロ。 | 未着手 |
-| 29 | Gimme Shelter | The Rolling Stones | Open E/D | オープンチューニング独特の響きとスライドギターのニュアンス。 | 未着手 |
-| 30 | ...To Be Loved | Papa Roach | Drop C | ヘヴィな刻みリフ。GX-10のピッチシフターでのドロップ推奨。 | 未着手 |
-| 31 | スリル | 布袋寅泰 | Standard E | 布袋氏ならではのハネるカッティングと、テクニカルなソロ。 | 未着手 |
-| 32 | RUSSIAN ROULETTE | 布袋寅泰 | Standard E | ドライブ感あふれるソロと、キレのあるリフ。 | 未着手 |
-| 33 | アポロ | ポルノグラフィティ | Standard E | ラテン調のカッティングと、歌うような印象的ソロ。 | 未着手 |
-| 34 | Weidmanns Heil | Rammstein | Drop D | インダストリアル・メタル。極めてタイトなミュート刻み。 | 未着手 |
-| 35 | BACK IN BLACK | BOOM BOOM SATELLITES | Standard E | デジタルロックのタイトなカッティングとエフェクト処理。 | 未着手 |
-| 36 | ちゅだい | Creepy Nuts | Standard E | ブラックミュージック由来のグルーヴ感とカッティング。 | 未着手 |
-| 37 | Louder | KNOCK OUT MONKEY | Drop C / D | ラウドロックの重低音ヘヴィリフ。リズムの正確性。 | 未着手 |
-| 38 | AIZO | King Gnu | Drop D | 変則的なコードワークと、強烈なファズサウンド。 | 未着手 |
-| 39 | サンフェーデッド | 初星学園 & 篠澤広 | Standard E | 現代的なJ-POP/アニソンらしい手数の多いリードとバッキング。 | 未着手 |
-| 40 | Never Fade Away | SAMURAI (Refused) | Drop D | ディストーション全開の重厚なロックリフ。 | 未着手 |
-| 41 | No Save Point | Run The Jewels | Drop C / D | サイバーパンクらしいインダストリアルでヘヴィなループリフ。 | 未着手 |
-| 42 | Chippin' In | P.T. Adamczyk | Drop D | 重厚な単音リフとリズムキープ。 | 未着手 |
-| 43 | Operation X | PROJECT ACES | Drop D | ドラマチックなメロディラインとシンフォニックメタルリフ。 | 未着手 |
+| 16 | Monkey Wrench | Foo Fighters | Drop D | ドロップD定番の高速リフとオクターブ奏法。右手のスタミナが必要。 | 未着手 |
+| 17 | The Pretender | Foo Fighters | Standard E | アルペジオから激しいサビへのダイナミクス変化。 | 未着手 |
+| 18 | Welcome To Paradise | Green Day | 半音下げ | 間奏のベースソロ裏など、パンクらしいノリと勢いが必要。 | 未着手 |
+| 19 | All I Want | The Offspring | Standard E | 爆速パンクリフ。高速ダウンピッキングの持久力テスト。 | 未着手 |
+| 20 | Knights of Cydonia | Muse | Standard E | トレモロピッキング（高速連打）とシンセ風エフェクト。 | 未着手 |
+| 21 | できっこないをやらなくちゃ | サンボマスター | Standard E | かなり速いテンポでのコードストロークが続く体力曲。 | 未着手 |
+| 22 | Bright Burning Shout | 西川貴教 | Drop D | ドライブ感のあるアニソンメタル。キレのあるリフ。 | 未着手 |
+| 23 | Paradise City | Guns N' Roses | 半音下げ | クリーンアルペジオからハードロックソロまで総合力が求められる。 | 未着手 |
+| 24 | Don't Stop Me Now | Queen | Standard E | ピアノの裏でのオブリガードや、歌うようなギターソロ。 | 未着手 |
+| 25 | I Was Born To Love You | Queen | Standard E | ハーモナイズドリードや正確なチョーキングが必要なソロ。 | 未着手 |
+| 26 | Gimme Shelter | The Rolling Stones | Open E/D | オープンチューニング独特の響きとスライドギターのニュアンス。 | 未着手 |
+| 27 | ...To Be Loved | Papa Roach | Drop C | ヘヴィな刻みリフ。GX-10のピッチシフターでのドロップ推奨。 | 未着手 |
+| 28 | スリル | 布袋寅泰 | Standard E | 布袋氏ならではのハネるカッティングと、テクニカルなソロ。 | 未着手 |
+| 29 | RUSSIAN ROULETTE | 布袋寅泰 | Standard E | ドライブ感あふれるソロと、キレのあるリフ。 | 未着手 |
+| 30 | アポロ | ポルノグラフィティ | Standard E | ラテン調のカッティングと、歌うような印象的ソロ。 | 未着手 |
+| 31 | Weidmanns Heil | Rammstein | Drop D | インダストリアル・メタル。極めてタイトなミュート刻み。 | 未着手 |
+| 32 | BACK IN BLACK | BOOM BOOM SATELLITES | Standard E | デジタルロックのタイトなカッティングとエフェクト処理。 | 未着手 |
+| 33 | Louder | KNOCK OUT MONKEY | Drop C / D | ラウドロックの重低音ヘヴィリフ。リズムの正確性。 | 未着手 |
+| 34 | AIZO | King Gnu | Drop D | 変則的なコードワークと、強烈なファズサウンド。 | 未着手 |
+| 35 | サンフェーデッド | 初星学園 & 篠澤広 | Standard E | 現代的なJ-POP/アニソンらしい手数の多いリードとバッキング。 | 未着手 |
+| 36 | Never Fade Away | SAMURAI (Refused) | Drop D | ディストーション全開の重厚なロックリフ。 | 未着手 |
+| 37 | Chippin' In | P.T. Adamczyk | Drop D | 重厚な単音リフとリズムキープ。 | 未着手 |
+| 38 | Operation X | PROJECT ACES | Drop D | ドラマチックなメロディラインとシンフォニックメタルリフ。 | 未着手 |
 
 ---
 
@@ -78,10 +73,10 @@
 
 | # | 楽曲名 | アーティスト | チューニング | 特徴・難易度メモ | ステータス |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| 44 | 青い | ポルカドットスティングレイ | Standard E | エディ氏（ハルシ氏）の超絶高速カッティング、高速タッピング、ソロ。 | 未着手 |
-| 45 | Natural Born Killer | Avenged Sevenfold | Drop D | 爆速スラッシュメタルリフ、ツインギターハモり、超絶ソロ。 | 未着手 |
-| 46 | 顔 (Alter Ego) | Ave Mujica | 7弦 Drop A | **最終目標。** 7弦の極太重低音リフ、タッピング、複雑な構成。要GX-10調整。 | 未着手 |
-| 47 | KiLLKiSS | Ave Mujica | 7弦 Drop A | 高速かつダークなメタルリフ。ソロの難易度も非常に高い。 | 未着手 |
+| 39 | 青い | ポルカドットスティングレイ | Standard E | エディ氏（ハルシ氏）の超絶高速カッティング、高速タッピング、ソロ。 | 未着手 |
+| 40 | Natural Born Killer | Avenged Sevenfold | Drop D | 爆速スラッシュメタルリフ、ツインギターハモり、超絶ソロ。 | 未着手 |
+| 41 | 顔 (Alter Ego) | Ave Mujica | 7弦 Drop A | **最終目標。** 7弦の極太重低音リフ、タッピング、複雑な構成。要GX-10調整。 | 未着手 |
+| 42 | KiLLKiSS | Ave Mujica | 7弦 Drop A | 高速かつダークなメタルリフ。ソロの難易度も非常に高い。 | 未着手 |
 
 ---
 
