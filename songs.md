@@ -20,21 +20,21 @@
 | :---: | :--- | :--- | :---: | :--- | :---: |
 | 1 | (I Can't Get No) Satisfaction | The Rolling Stones | Standard E | 歴史的で非常にシンプルな3音リフ。初心者の登竜門。 | 練習中 |
 | 2 | 1000のバイオリン | The Blue Hearts | Standard E | シンプルなパンクビートのコードストローク。 | 未着手 |
-| 3 | 20th Century Boy | T.Rex | Standard E | Apple Music Library | 未着手 |
+| 3 | 20th Century Boy | T.Rex | Standard E | 反復する太いメインリフが中心。コード移動よりも、音を止める位置とロックらしいノリを揃える練習に向く。 | 未着手 |
 | 4 | A Hard Day's Night | The Beatles | Standard E | オープニングコードの響きと、定番のバッキングパターン。 | 未着手 |
 | 5 | American Idiot | Green Day | Standard E | 4つのパワーコードでほぼ全編弾ける王道パンク。(GX-10推奨: P30-1, P24-1など) | 未着手 |
 | 6 | Basket Case | Green Day | 半音下げ | ミュート（ブリッジミュート）とコードチェンジの良い練習曲。 | 未着手 |
 | 7 | Bleed American | Jimmy Eat World | Drop D / C# | ドロップDのパワーコードが心地よい、シンプルなヘヴィリフ。 | 未着手 |
-| 8 | Doom and Gloom | The Rolling Stones | Standard E | オーソドックスなローリングストーンズ風ロック。 | 未着手 |
-| 9 | Eye of the Tiger | サバイバー | Standard E | Apple Music Library | 未着手 |
+| 8 | Doom and Gloom | The Rolling Stones | Standard E | 低音弦の反復リフとブルースロック系のコードが中心。ピッキングの強弱と粘るグルーヴが要点。 | 未着手 |
+| 9 | Eye of the Tiger | サバイバー | Standard E | 休符を含む有名な単音リフが中心。ピッキングの粒とミュートを揃えれば、初心者でも形にしやすい。 | 未着手 |
 | 10 | Feuer Frei | Rammstein | Drop D | リフ自体は非常にシンプル。重低音とシンクする練習に。 | 未着手 |
-| 11 | Hello There | Cheap Trick | Standard E | パワーコード中心のストレートな曲。短くて練習しやすい。 | 未着手 |
+| 11 | Hello There | Cheap Trick | Standard E | 短い構成で、開放コードとパワーコード中心。曲を最初から最後まで通す練習に向く。 | 未着手 |
 | 12 | Paranoid | Black Sabbath | Standard E | メタル/ハードロックの基本リフ。テンポも適度。 | 未着手 |
-| 13 | Smells Like Teen Spirit | Nirvana | Standard E | Apple Music Library | 未着手 |
-| 14 | The Hand That Feeds | Nine Inch Nails | Standard E | シンセベース的な単調なリフ。リズムキープの練習に。 | 未着手 |
+| 13 | Smells Like Teen Spirit | Nirvana | Standard E | 4つのパワーコードと強弱の切り替えが中心。空振りを含むストロークと不要弦ミュートが要点。 | 未着手 |
+| 14 | The Hand That Feeds | Nine Inch Nails | Standard E | 反復する単音リフとタイトな休符が中心。音を短く切り、機械的にテンポを保つ練習に向く。 | 未着手 |
 | 15 | You And Me | Attack! Attack! | Standard E | カポ2推奨。爽快なポップパンクの王道進行。 | 未着手 |
-| 16 | デイ・トリッパー | ビートルズ | Standard E | Apple Music Library | 未着手 |
-| 17 | ヘルプ! | ビートルズ | Standard E | Apple Music Library | 未着手 |
+| 16 | デイ・トリッパー | ビートルズ | Standard E | 開放弦を交えた定番リフ。指を独立して動かしながら、音価を均一にする練習に適している。 | 未着手 |
+| 17 | ヘルプ! | ビートルズ | Standard E | テンポの速いコードチェンジと歯切れのよいストロークが中心。原曲の速さでは右手の安定が必要。 | 未着手 |
 | 18 | 環七フィーバー | Guitar Wolf | Standard E | 初期パンク/ガレージの勢い重視のバッキング。 | 未着手 |
 | 19 | 黒くぬれ! (Paint It Black) | The Rolling Stones | Standard E | カポタスト使用 (Capo 2)。単音メロディの練習に最適。 | 未着手 |
 | 20 | 天道虫 | THE YELLOW MONKEY | Standard E | ノリの良いシンプルなロックリフ。テンポも易しめ。 | 未着手 |
@@ -45,108 +45,108 @@
 | # | 楽曲名 | アーティスト | チューニング | 特徴・難易度メモ | ステータス |
 | :---: | :--- | :--- | :---: | :--- | :---: |
 | 21 | ...To Be Loved | Papa Roach | Drop C | ヘヴィな刻みリフ。GX-10のピッチシフターでのドロップ推奨。 | 未着手 |
-| 22 | 1sec. | 10-FEET | Standard E | Apple Music Library | 未着手 |
-| 23 | A Like Supreme | SAMURAI | Drop D | Apple Music Library | 未着手 |
+| 22 | 1sec. | 10-FEET | Standard E | 高速なパンク系バッキングと細かなキメが多い。左手の移動より、右手の持久力とリズム精度が難所。 | 未着手 |
+| 23 | A Like Supreme | SAMURAI | Drop D | 重い単音リフとパワーコードをタイトに刻む曲。休符、シンコペーション、不要弦ミュートが重要。 | 未着手 |
 | 24 | AIZO | King Gnu | Drop D | 変則的なコードワークと、強烈なファズサウンド。 | 未着手 |
 | 25 | All I Want | The Offspring | Standard E | 爆速パンクリフ。高速ダウンピッキングの持久力テスト。 | 未着手 |
 | 26 | BACK IN BLACK | BOOM BOOM SATELLITES | Standard E | デジタルロックのタイトなカッティングとエフェクト処理。 | 未着手 |
-| 27 | Bellbottoms | ザ・ジョン・スペンサー・ブルース・エクスプロージョン | Standard E | Apple Music Library | 未着手 |
-| 28 | Big Blast Sonic | Little V. | Standard E | Apple Music Library | 未着手 |
-| 29 | Black Hole Sun | Soundgarden | Standard E | Apple Music Library | 未着手 |
-| 30 | Blackhawks Over los Angeles | Strung Out | Standard E | Apple Music Library | 未着手 |
-| 31 | Bleed It Out | LINKIN PARK | Standard E | Apple Music Library | 未着手 |
-| 32 | Blurry | Puddle of Mudd | Standard E | Apple Music Library | 未着手 |
+| 27 | Bellbottoms | ザ・ジョン・スペンサー・ブルース・エクスプロージョン | Standard E | 荒々しいファズのリフとブルース由来のフレーズが中心。勢いを保ちつつリズムを崩さないことが課題。 | 未着手 |
+| 28 | Big Blast Sonic | Little V. | Standard E | 高速なメタル系リフと細かな展開が続く。ミュート、オルタネイト、素早いポジション移動が必要。 | 未着手 |
+| 29 | Black Hole Sun | Soundgarden | Standard E | 独特なコードボイシングと半音進行が特徴。音を濁らせず、コードごとの響きを保つのが難しい。 | 未着手 |
+| 30 | Blackhawks Over los Angeles | Strung Out | Standard E | 高速パンクの刻みとメロディックなリードが同居。ダウンピッキングの持久力と移弦精度が必要。 | 未着手 |
+| 31 | Bleed It Out | LINKIN PARK | Standard E | 短い反復フレーズを長時間タイトに弾く曲。技術量は多くないが、走らず一定のノリを保つ必要がある。 | 未着手 |
+| 32 | Blurry | Puddle of Mudd | Standard E | クリーン寄りのアルペジオと歪んだコードの切り替えが中心。弦をまたぐピッキングと音の分離が課題。 | 未着手 |
 | 33 | Bright Burning Shout | 西川貴教 | Drop D | ドライブ感のあるアニソンメタル。キレのあるリフ。 | 未着手 |
-| 34 | Calling | Strung Out | Standard E | Apple Music Library | 未着手 |
-| 35 | Carry On | アヴェンジド・セヴンフォールド | Standard E | Apple Music Library | 未着手 |
-| 36 | Carry On Wayward Son | カンサス | Standard E | Apple Music Library | 未着手 |
+| 34 | Calling | Strung Out | Standard E | 高速なコード進行とメロディックなリフが続く。パンク系の右手の持久力に加え、細かなキメへの対応が必要。 | 未着手 |
+| 35 | Carry On | アヴェンジド・セヴンフォールド | Standard E | 高速リフ、ツインリード、長めのソロを含む総合力の高い曲。中級内でも上位寄りの難度。 | 未着手 |
+| 36 | Carry On Wayward Son | カンサス | Standard E | 複数の印象的なリフ、変拍子的なキメ、ハーモニーを含む。セクションごとの切り替えが難所。 | 未着手 |
 | 37 | Chippin' In | P.T. Adamczyk | Drop D | 重厚な単音リフとリズムキープ。 | 未着手 |
-| 38 | Cochise | オーディオスレイヴ | Standard E | Apple Music Library | 未着手 |
-| 39 | Crosstown Traffic | ザ・ジミ・ヘンドリックス・エクスペリエンス | Standard E | Apple Music Library | 未着手 |
-| 40 | Dance, Dance | フォール・アウト・ボーイ | Standard E | Apple Music Library | 未着手 |
-| 41 | Dead End Friends | Them Crooked Vultures | Standard E | Apple Music Library | 未着手 |
+| 38 | Cochise | オーディオスレイヴ | Standard E | 低音弦主体の反復リフと大きなダイナミクスが特徴。ハンマリングと休符をタイトに揃える必要がある。 | 未着手 |
+| 39 | Crosstown Traffic | ザ・ジミ・ヘンドリックス・エクスペリエンス | Standard E | ブルースロック系のコード、複音、細かなリズムが混在。ハネたグルーヴとコード内のミュートが難しい。 | 未着手 |
+| 40 | Dance, Dance | フォール・アウト・ボーイ | Standard E | オクターブを交えた動くリフと細かなシンコペーションが中心。左手の移動と右手の空振りを同期させる。 | 未着手 |
+| 41 | Dead End Friends | Them Crooked Vultures | Standard E | 低音弦のうねるリフと変則的なアクセントが特徴。拍の位置を見失わず、重いノリを保つ必要がある。 | 未着手 |
 | 42 | Don't Stop Me Now | Queen | Standard E | ピアノの裏でのオブリガードや、歌うようなギターソロ。 | 未着手 |
-| 43 | Down On the Street | ザ・ストゥージス | Standard E | Apple Music Library | 未着手 |
-| 44 | Driver's High | L'Arc〜en〜Ciel | Standard E | Apple Music Library | 未着手 |
-| 45 | Enter Sandman | メタリカ | Standard E | Apple Music Library | 未着手 |
-| 46 | Everlong | フー・ファイターズ | Standard E | Apple Music Library | 未着手 |
-| 47 | Falling to Pieces | Faith No More | Standard E | Apple Music Library | 未着手 |
-| 48 | Fire Your Guns | AC/DC | Standard E | Apple Music Library | 未着手 |
+| 43 | Down On the Street | ザ・ストゥージス | Standard E | 反復的なガレージロックのリフが中心。技術よりも、荒さを残しながらテンポを安定させることが重要。 | 未着手 |
+| 44 | Driver's High | L'Arc〜en〜Ciel | Standard E | 高速なコードストロークと動きの多いバッキングが続く。テンポ維持とコードチェンジの正確さが必要。 | 未着手 |
+| 45 | Enter Sandman | メタリカ | Standard E | 単音リフ、パワーコード、ミュート刻みを段階的に練習できる定番曲。ソロまで含めると中級相当。 | 未着手 |
+| 46 | Everlong | フー・ファイターズ | Standard E | 細かな16分系ストロークと広いコードフォームが長く続く。右手の持久力と脱力が最大の課題。 | 未着手 |
+| 47 | Falling to Pieces | Faith No More | Standard E | ファンク寄りの跳ねたリフとコードのキメが特徴。音を短く切り、リズムの隙間を正確に作る必要がある。 | 未着手 |
+| 48 | Fire Your Guns | AC/DC | Standard E | AC/DCらしい開放コード主体のバッキング。シンプルに見えるが、裏拍のノリと音価の揃え方が難しい。 | 未着手 |
 | 49 | Gimme Shelter | The Rolling Stones | Open E/D | オープンチューニング独特の響きとスライドギターのニュアンス。 | 未着手 |
-| 50 | Hammer to Fall | クイーン | Standard E | Apple Music Library | 未着手 |
-| 51 | HOPE | KNOCK OUT MONKEY | Drop C / D | Apple Music Library | 未着手 |
-| 52 | I Gotsta Get Paid | ZZトップ | Standard E | Apple Music Library | 未着手 |
+| 50 | Hammer to Fall | クイーン | Standard E | 力強いコードリフと細かなオブリガードが中心。コードを鳴らし切りつつ、休符を明確に入れる。 | 未着手 |
+| 51 | HOPE | KNOCK OUT MONKEY | Drop C / D | 低音弦の刻みと素早いコード移動を含むラウドロック。テンポに負けない右手とミュート精度が必要。 | 未着手 |
+| 52 | I Gotsta Get Paid | ZZトップ | Standard E | 低く粘るブルースロックのリフが中心。音数は少ないが、シャッフル感とピッキングの強弱が重要。 | 未着手 |
 | 53 | I Was Born To Love You | Queen | Standard E | ハーモナイズドリードや正確なチョーキングが必要なソロ。 | 未着手 |
-| 54 | Iron Man | Black Sabbath | Standard E | Apple Music Library | 未着手 |
-| 55 | Kickstart My Heart | モトリー・クルー | Standard E | Apple Music Library | 未着手 |
-| 56 | kid, I like quartet | UNISON SQUARE GARDEN | Standard E | Apple Music Library | 未着手 |
-| 57 | Killing Strangers | マリリン・マンソン | Standard E | Apple Music Library | 未着手 |
+| 54 | Iron Man | Black Sabbath | Standard E | 単音中心の有名な重量級リフ。運指は比較的素直だが、音の長さと重いノリを揃える必要がある。 | 未着手 |
+| 55 | Kickstart My Heart | モトリー・クルー | Standard E | 高速なハードロックのバッキングと派手なリードが続く。右手の持久力とソロの正確さが必要。 | 未着手 |
+| 56 | kid, I like quartet | UNISON SQUARE GARDEN | Standard E | 細かなカッティング、コード移動、キメが多い。テンポも速く、バッキングだけでも高いリズム精度を要する。 | 未着手 |
+| 57 | Killing Strangers | マリリン・マンソン | Standard E | 低音中心の反復リフと隙間の多いアレンジ。音数より、休符と発音タイミングを揃える難しさがある。 | 未着手 |
 | 58 | Knights of Cydonia | Muse | Standard E | トレモロピッキング（高速連打）とシンセ風エフェクト。 | 未着手 |
-| 59 | Let There Be Rock | AC/DC | Standard E | Apple Music Library | 未着手 |
-| 60 | LOCOMOTION, MORE! MORE! | the pillows | Standard E | Apple Music Library | 未着手 |
+| 59 | Let There Be Rock | AC/DC | Standard E | 高速な8分刻みを長時間維持する体力曲。コード自体は基本的だが、最後まで走らず弾くのが難しい。 | 未着手 |
+| 60 | LOCOMOTION, MORE! MORE! | the pillows | Standard E | 勢いのあるコードストロークと短いリフが中心。ロックらしいアクセントとコード移動の滑らかさが課題。 | 未着手 |
 | 61 | Louder | KNOCK OUT MONKEY | Drop C / D | ラウドロックの重低音ヘヴィリフ。リズムの正確性。 | 未着手 |
-| 62 | Medicate | AFI | Standard E | Apple Music Library | 未着手 |
+| 62 | Medicate | AFI | Standard E | パンク寄りの高速コードワークと単音フレーズが中心。ミュートを保ったまま素早く移動する必要がある。 | 未着手 |
 | 63 | Monkey Wrench | Foo Fighters | Drop D | ドロップD定番の高速リフとオクターブ奏法。右手のスタミナが必要。 | 未着手 |
-| 64 | Mugen | ポルノグラフィティ | Standard E | Apple Music Library | 未着手 |
+| 64 | Mugen | ポルノグラフィティ | Standard E | ラテン調の細かなバッキングとキメが多い。右手のストローク制御とコードチェンジの同期が難所。 | 未着手 |
 | 65 | Never Fade Away | SAMURAI (Refused) | Drop D | ディストーション全開の重厚なロックリフ。 | 未着手 |
-| 66 | Nightmare | Avenged Sevenfold | Drop D | Apple Music Library | 未着手 |
+| 66 | Nightmare | Avenged Sevenfold | Drop D | 重いリフ、変化の多い展開、長いリードパートを含む。リズムギターだけでも中級上位の難度。 | 未着手 |
 | 67 | Operation X | PROJECT ACES | Drop D | ドラマチックなメロディラインとシンフォニックメタルリフ。 | 未着手 |
-| 68 | Paint it Out!!!! | KNOCK OUT MONKEY | Drop C / D | Apple Music Library | 未着手 |
+| 68 | Paint it Out!!!! | KNOCK OUT MONKEY | Drop C / D | 低音弦の高速な刻みと跳ねるリズムが特徴。ミュートの深さとアクセントを揃える必要がある。 | 未着手 |
 | 69 | Paradise City | Guns N' Roses | 半音下げ | クリーンアルペジオからハードロックソロまで総合力が求められる。 | 未着手 |
-| 70 | Promise | 山岡晃 | Standard E | Apple Music Library | 未着手 |
-| 71 | Re:make | ONE OK ROCK | Standard E | Apple Music Library | 未着手 |
-| 72 | Run Through the Jungle | クリーデンス・クリアウォーター・リヴァイヴァル | Standard E | Apple Music Library | 未着手 |
+| 70 | Promise | 山岡晃 | Standard E | クリーンなアルペジオと哀愁のあるリードが中心。テンポは穏やかだが、音をきれいにつなぐ技術が必要。 | 未着手 |
+| 71 | Re:make | ONE OK ROCK | Standard E | 高速なパワーコード、単音リフ、ブレイクが連続する。右手の持久力とセクション切り替えの正確さが必要。 | 未着手 |
+| 72 | Run Through the Jungle | クリーデンス・クリアウォーター・リヴァイヴァル | Standard E | 反復するブルースロックのリフが中心。技術より、低く粘るグルーヴと音色のニュアンスが重要。 | 未着手 |
 | 73 | RUSSIAN ROULETTE | 布袋寅泰 | Standard E | ドライブ感あふれるソロと、キレのあるリフ。 | 未着手 |
-| 74 | SCREAM | Large House Satisfaction | Standard E | Apple Music Library | 未着手 |
-| 75 | Shin Takara Jima | sakanaction | Standard E | Apple Music Library | 未着手 |
-| 76 | Shoot to Thrill | AC/DC | Standard E | Apple Music Library | 未着手 |
-| 77 | Shout It Out Loud | KISS | Standard E | Apple Music Library | 未着手 |
-| 78 | Show Me How to Live | オーディオスレイヴ | Standard E | Apple Music Library | 未着手 |
-| 79 | The Ballad of Buck Ravers | SAMURAI | Drop D | Apple Music Library | 未着手 |
-| 80 | The Beautiful People | マリリン・マンソン | Standard E | Apple Music Library | 未着手 |
-| 81 | The Gong of Knockout | Fear, and Loathing in Las Vegas | Standard E | Apple Music Library | 未着手 |
-| 82 | The Hell Song | SUM 41 | Standard E | Apple Music Library | 未着手 |
+| 74 | SCREAM | Large House Satisfaction | Standard E | 荒々しいガレージロックのリフと強いアクセントが特徴。勢いを保ちながら拍の頭を揃える練習になる。 | 未着手 |
+| 75 | Shin Takara Jima | sakanaction | Standard E | 16分のカッティングと短いコードが中心。左手で音を切り、右手を止めずに振るリズム感が必要。 | 未着手 |
+| 76 | Shoot to Thrill | AC/DC | Standard E | 開放コード主体だが、細かなリフと長い構成を持つ。AC/DC特有のタメとコードの鳴らし分けが難所。 | 未着手 |
+| 77 | Shout It Out Loud | KISS | Standard E | シンプルなハードロックのコード進行が中心。コーラスに合わせたアクセントと安定した8分刻みが要点。 | 未着手 |
+| 78 | Show Me How to Live | オーディオスレイヴ | Standard E | 低音弦の太い反復リフと変則的なノリが特徴。ハンマリング、休符、アクセントを正確に揃える。 | 未着手 |
+| 79 | The Ballad of Buck Ravers | SAMURAI | Drop D | パンク寄りの高速リフと荒々しいコードワークが中心。右手の勢いとミュート精度の両立が必要。 | 未着手 |
+| 80 | The Beautiful People | マリリン・マンソン | Standard E | 単純な反復リフを機械的に揃える曲。ピッキングの強さ、休符、ノイズ処理が演奏の完成度を左右する。 | 未着手 |
+| 81 | The Gong of Knockout | Fear, and Loathing in Las Vegas | Standard E | 高速なラウドロックの刻み、シンセとのユニゾン、急な展開変化が多い。中級内でも難しめ。 | 未着手 |
+| 82 | The Hell Song | SUM 41 | Standard E | 高速パンクのコードバッキングとメロディックな単音リフが中心。ダウンピッキングと移弦の精度が必要。 | 未着手 |
 | 83 | The Pretender | Foo Fighters | Standard E | アルペジオから激しいサビへのダイナミクス変化。 | 未着手 |
-| 84 | Thunderstruck | AC/DC | Standard E | Apple Music Library | 未着手 |
-| 85 | Venus | ショッキング・ブルー | Standard E | Apple Music Library | 未着手 |
-| 86 | Wake Up | レイジ・アゲインスト・ザ・マシーン | Standard E | Apple Music Library | 未着手 |
+| 84 | Thunderstruck | AC/DC | Standard E | 高音弦の反復フレーズを長く維持する曲。左手の独立性、余弦ミュート、一定の粒立ちが難所。 | 未着手 |
+| 85 | Venus | ショッキング・ブルー | Standard E | 印象的なコードリフを反復するシンプルな構成。コードチェンジとストロークのアクセント練習に向く。 | 未着手 |
+| 86 | Wake Up | レイジ・アゲインスト・ザ・マシーン | Standard E | 低音リフ、ファンク的なカッティング、ダイナミクス変化を含む。右手の振り幅と音価の制御が重要。 | 未着手 |
 | 87 | Weidmanns Heil | Rammstein | Drop D | インダストリアル・メタル。極めてタイトなミュート刻み。 | 未着手 |
 | 88 | Welcome To Paradise | Green Day | 半音下げ | 間奏のベースソロ裏など、パンクらしいノリと勢いが必要。 | 未着手 |
-| 89 | Welcome to the Family | Avenged Sevenfold | Drop D | Apple Music Library | 未着手 |
-| 90 | Welcome To The Jungle | ガンズ・アンド・ローゼズ | Standard E | Apple Music Library | 未着手 |
-| 91 | What Went Down | フォールズ | Standard E | Apple Music Library | 未着手 |
-| 92 | Wherever I May Roam | メタリカ | Standard E | Apple Music Library | 未着手 |
-| 93 | You Know My Name | クリス・コーネル | Standard E | Apple Music Library | 未着手 |
-| 94 | アイデンティティ | サカナクション | Standard E | Apple Music Library | 未着手 |
+| 89 | Welcome to the Family | Avenged Sevenfold | Drop D | 刻みリフ、ハーモニー、複雑な展開、ソロを含む。リズムギターだけでも素早い切り替えが求められる。 | 未着手 |
+| 90 | Welcome To The Jungle | ガンズ・アンド・ローゼズ | Standard E | 付点を含むイントロフレーズ、動くリフ、複数のソロが難所。原曲どおり弾くと中級上位。 | 未着手 |
+| 91 | What Went Down | フォールズ | Standard E | 低音弦の反復リフから激しいコードへ展開する。歪みの中でも休符とアクセントを明確にする必要がある。 | 未着手 |
+| 92 | Wherever I May Roam | メタリカ | Standard E | 異国的な単音リフと重いミュート刻みが中心。リフごとの音価と大きなポジション移動が課題。 | 未着手 |
+| 93 | You Know My Name | クリス・コーネル | Standard E | 重いリフ、変拍子的なキメ、ブルースロック系のリードが混在。展開を覚えるまでが難しい。 | 未着手 |
+| 94 | アイデンティティ | サカナクション | Standard E | 16分カッティングと反復するコードパターンが中心。左手のミュートと右手の一定運動が重要。 | 未着手 |
 | 95 | アポロ | ポルノグラフィティ | Standard E | ラテン調のカッティングと、歌うような印象的ソロ。 | 未着手 |
 | 96 | サンフェーデッド | 初星学園 & 篠澤広 | Standard E | 現代的なJ-POP/アニソンらしい手数の多いリードとバッキング。 | 未着手 |
 | 97 | スリル | 布袋寅泰 | Standard E | 布袋氏ならではのハネるカッティングと、テクニカルなソロ。 | 未着手 |
 | 98 | できっこないをやらなくちゃ | サンボマスター | Standard E | かなり速いテンポでのコードストロークが続く体力曲。 | 未着手 |
-| 99 | ヒトリノ夜 | ポルノグラフィティ | Standard E | Apple Music Library | 未着手 |
-| 100 | ミュージック・アワー | ポルノグラフィティ | Standard E | Apple Music Library | 未着手 |
-| 101 | らしさ | SUPER BEAVER | Standard E | Apple Music Library | 未着手 |
-| 102 | リヴィン・オン・ア・プレイヤー | ボン・ジョヴィ | Standard E | Apple Music Library | 未着手 |
-| 103 | リライト | ASIAN KUNG-FU GENERATION | Standard E | Apple Music Library | 未着手 |
-| 104 | 一刀繚乱 | Fate/grand order | Standard E | Apple Music Library | 未着手 |
-| 105 | 劇場支配人のテーマ | THE PINBALLS | Standard E | Apple Music Library | 未着手 |
-| 106 | 第ゼロ感 | 10-FEET | Standard E | Apple Music Library | 未着手 |
+| 99 | ヒトリノ夜 | ポルノグラフィティ | Standard E | 速いテンポのコードバッキングと歌に絡むフレーズが多い。右手を止めずにコードを切り替える必要がある。 | 未着手 |
+| 100 | ミュージック・アワー | ポルノグラフィティ | Standard E | ファンキーなカッティングと細かなコードワークが中心。ブラッシングと実音を正確に弾き分ける。 | 未着手 |
+| 101 | らしさ | SUPER BEAVER | Standard E | 勢いのある8分ストロークと頻繁なコードチェンジが中心。原曲テンポでは右手の持久力が必要。 | 未着手 |
+| 102 | リヴィン・オン・ア・プレイヤー | ボン・ジョヴィ | Standard E | トークボックス風のリフ、コードバッキング、歌うソロを含む。チョーキングの音程も重要。 | 未着手 |
+| 103 | リライト | ASIAN KUNG-FU GENERATION | Standard E | オクターブ奏法、パワーコード、細かなブレイクが中心。不要弦を鳴らさず勢いを保つことが課題。 | 未着手 |
+| 104 | 一刀繚乱 | Fate/grand order | Standard E | 和風メロディを交えた速いロック曲。細かな単音フレーズとコードバッキングの切り替えが多い。 | 未着手 |
+| 105 | 劇場支配人のテーマ | THE PINBALLS | Standard E | ガレージロック系の鋭いリフと展開の多いバッキング。音を短く切る左手の制御が必要。 | 未着手 |
+| 106 | 第ゼロ感 | 10-FEET | Standard E | 低音弦の高速な刻み、シンコペーション、急なブレイクが多い。右手の持久力とリズム精度が難所。 | 未着手 |
 
 ## 🏆 3. 上級 (★★★) [12曲]
 非常に高い技術、速さ、または特殊な機材セットアップが求められる、本リポジトリの最終目標となる難関曲です。
 
 | # | 楽曲名 | アーティスト | チューニング | 特徴・難易度メモ | ステータス |
 | :---: | :--- | :--- | :---: | :--- | :---: |
-| 107 | ...And Justice For All | メタリカ | Standard E | Apple Music Library | 未着手 |
-| 108 | abnormalize | 凛として時雨 | Standard E | Apple Music Library | 未着手 |
-| 109 | Battery | メタリカ | Standard E | Apple Music Library | 未着手 |
-| 110 | Enigmatic Feeling | 凛として時雨 | Standard E | Apple Music Library | 未着手 |
-| 111 | FANTASTIC MAGIC | TK from 凛として時雨 | Standard E | Apple Music Library | 未着手 |
-| 112 | Holy Wars... The Punishment Due | メガデス | Standard E | Apple Music Library | 未着手 |
+| 107 | ...And Justice For All | メタリカ | Standard E | 長大な構成、頻繁な拍子変化、高速ダウンピッキングを含む。暗記量と持久力の両方が必要。 | 未着手 |
+| 108 | abnormalize | 凛として時雨 | Standard E | 高速カッティング、複雑なコード、急激な展開変化が連続する。両手の同期とノイズ処理が非常に難しい。 | 未着手 |
+| 109 | Battery | メタリカ | Standard E | 高速ダウンピッキング、細かな移弦、長いソロを含むスラッシュメタル曲。脱力できないと完走が難しい。 | 未着手 |
+| 110 | Enigmatic Feeling | 凛として時雨 | Standard E | 変則的なコードフォーム、高速カッティング、タッピングを含む。拍の把握と両手の同期が難関。 | 未着手 |
+| 111 | FANTASTIC MAGIC | TK from 凛として時雨 | Standard E | 高速カッティング、広いポジション移動、複雑なリードが続く。原曲再現には高い総合力が必要。 | 未着手 |
+| 112 | Holy Wars... The Punishment Due | メガデス | Standard E | 高速リフ、複雑な構成、変拍子、難度の高いソロを含む。上級曲の中でも特に難しい。 | 未着手 |
 | 113 | KiLLKiSS | Ave Mujica | 7弦 Drop A | 高速かつダークなメタルリフ。ソロの難易度も非常に高い。 | 未着手 |
-| 114 | Master of Puppets | メタリカ | Standard E | Apple Music Library | 未着手 |
+| 114 | Master of Puppets | メタリカ | Standard E | 高速ダウンピッキングを長時間維持しながら、多数のリフと長い構成を処理する代表的な難関曲。 | 未着手 |
 | 115 | Natural Born Killer | Avenged Sevenfold | Drop D | 爆速スラッシュメタルリフ、ツインギターハモり、超絶ソロ。 | 未着手 |
 | 116 | 顔 (Alter Ego) | Ave Mujica | 7弦 Drop A | **最終目標。** 7弦の極太重低音リフ、タッピング、複雑な構成。要GX-10調整。 | 未着手 |
-| 117 | 混ぜるな危険 | 筋肉少女帯 | Standard E | Apple Music Library | 未着手 |
+| 117 | 混ぜるな危険 | 筋肉少女帯 | Standard E | 高速で目まぐるしいリフ、細かなキメ、独特な展開が多い。曲構成の把握と正確な切り替えが必要。 | 未着手 |
 | 118 | 青い | ポルカドットスティングレイ | Standard E | エディ氏（ハルシ氏）の超絶高速カッティング、高速タッピング、ソロ。 | 未着手 |
 
 ---
