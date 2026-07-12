@@ -28,11 +28,13 @@
 
 ## 📝 記録について (About Logs)
 
-日々の練習内容や課題感、気づきは [`log.csv`](file:///d:/code/Guitarlog/log.csv) に蓄積しています。
+日々の練習内容や課題感、気づきは [log.csv](file:///d:/code/Guitarlog/log.csv) に蓄積しています。
 
 また、関連する情報は以下のファイルで管理しています。
-* **演奏目標曲リスト**: [`songs.md`](file:///d:/code/Guitarlog/songs.md)
-* **直近の課題と取り組み**: [`challenges.md`](file:///d:/code/Guitarlog/challenges.md)
-* **AIアシスタント指示書**: [`.agents/AGENTS.md`](file:///d:/code/Guitarlog/.agents/AGENTS.md)
+* **演奏目標曲リスト**: [songs.md](file:///d:/code/Guitarlog/songs.md)
+* **直近の課題と取り組み**: [challenges.md](file:///d:/code/Guitarlog/challenges.md)
+* **GX-10 プリセット一覧**: [gx10_presets.md](file:///d:/code/Guitarlog/gx10_presets.md)
+* **AIアシスタント指示書**: [.agents/AGENTS.md](file:///d:/code/Guitarlog/.agents/AGENTS.md)
+
 
 
