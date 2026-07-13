@@ -22,7 +22,7 @@
 | 2 | 1000のバイオリン | The Blue Hearts | Standard E | シンプルなパンクビートのコードストローク。 | 未着手 |
 | 3 | 20th Century Boy | T.Rex | Standard E | 反復する太いメインリフが中心。コード移動よりも、音を止める位置とロックらしいノリを揃える練習に向く。 | 未着手 |
 | 4 | A Hard Day's Night | The Beatles | Standard E | オープニングコードの響きと、定番のバッキングパターン。 | 未着手 |
-| 5 | American Idiot | Green Day | Standard E | 4つのパワーコードでほぼ全編弾ける王道パンク。(GX-10推奨: P30-1, P24-1など) | 未着手 |
+| 5 | American Idiot | Green Day | Standard E | 4つのパワーコードでほぼ全編弾ける王道パンク。(GX-10推奨: P30-1, P24-1など) | 練習中 |
 | 6 | Basket Case | Green Day | 半音下げ | ミュート（ブリッジミュート）とコードチェンジの良い練習曲。 | 未着手 |
 | 7 | Bleed American | Jimmy Eat World | Drop D / C# | ドロップDのパワーコードが心地よい、シンプルなヘヴィリフ。 | 未着手 |
 | 8 | Doom and Gloom | The Rolling Stones | Standard E | 低音弦の反復リフとブルースロック系のコードが中心。ピッキングの強弱と粘るグルーヴが要点。 | 未着手 |
