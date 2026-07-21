@@ -37,7 +37,7 @@
 | 17 | ヘルプ! | ビートルズ | Standard E | テンポの速いコードチェンジと歯切れのよいストロークが中心。原曲の速さでは右手の安定が必要。 | 未着手 |
 | 18 | 環七フィーバー | Guitar Wolf | Standard E | 初期パンク/ガレージの勢い重視のバッキング。 | 未着手 |
 | 19 | 黒くぬれ! (Paint It Black) | The Rolling Stones | Standard E | カポタスト使用 (Capo 2)。単音メロディの練習に最適。 | 未着手 |
-| 20 | 天道虫 | THE YELLOW MONKEY | Standard E | ノリの良いシンプルなロックリフ。テンポも易しめ。 | 未着手 |
+| 20 | 天道虫 | THE YELLOW MONKEY | Standard E | ノリの良いシンプルなロックリフ。テンポも易しめ。(GX-10推奨: P24-1 DRY CRUNCH, P02-3 CRUNCH LEADなど) | 練習中 |
 
 ## 🚀 2. 中級 (★★☆) [86曲]
 テンポが速くなったり、ソロフレーズやオクターブ奏法などのテクニックが必要になる楽曲です。
