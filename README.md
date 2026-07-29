@@ -14,15 +14,6 @@
 | **Amp Simulator** | **BOSS GX-10** | マルチエフェクター / アンプシミュレーター |
 | **Other** | シールド、ヘッドホン | 静音練習・モニタリング環境 |
 
----
-
-## 🎯 練習目標 (Goals)
-
-### 🏆 最終目標 (Ultimate Goal)
-* **Ave Mujica - 「顔」（Alter Ego）** を完璧に弾きこなす
-
-### 🚀 将来的な目標 (Future Goal)
-* **Avenged Sevenfold (A7X)** の楽曲への挑戦
 
 ---
 
