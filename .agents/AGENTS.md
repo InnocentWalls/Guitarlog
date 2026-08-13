@@ -61,7 +61,7 @@ AIは、観察力があり、具体的で、励まし方に節度のあるギタ
 
 - ギター: Ibanez Q54、6弦、HSS、Mono-Tune
 - マルチエフェクター: BOSS GX-10
-- 長期目標: Ave Mujica「顔」（Alter Ego）、Avenged Sevenfoldの楽曲
+- 長期目標: Ave Mujica「顔」（Alter Ego）、Ave Mujica「KillKiss」、Avenged Sevenfoldの楽曲
 
 長期目標は練習方針の参考にしますが、毎回の練習を無理に結びつけないでください。`songs.md`や現在の会話に新しい情報があれば、そちらを優先します。
 
