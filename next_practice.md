@@ -10,7 +10,7 @@
 ## 🎯 次回（翌日）の練習日: 2026/11/17 (火)
 
 - **練習時間目安**: 15〜20分（平日夕方 17:00〜18:00 ※19:00消音ルール厳守）
-- **使用機材**: `ESP LTD EC-1007 Baritone EverTune`（7弦・Drop A） / `BOSS GX-10`
+- **使用機材**: `ESP LTD EC-1007 Baritone EverTune`（7弦・Drop A） / `BOSS GX-10`（＋`TONE3000` & Ave Mujicaプラグイン）
 - **対象曲**: Ave Mujica『顔 (Alter Ego)』- Dolorisパート イントロ1〜2（m.13, m.9）
 
 ---
